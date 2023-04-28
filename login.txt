@@ -1,1 +1,2 @@
-login details
+login details with password
+ remote
