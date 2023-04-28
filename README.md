@@ -1,1 +1,1 @@
-I am repo3
+I am pushing from working directory to local repo and then remore repo
