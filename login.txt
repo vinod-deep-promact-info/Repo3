@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 login  from main
 remote123
 login  from main
 remote
 login  from main
 remote
+=======
+1
+2
+3
+4
+5
+>>>>>>> login
